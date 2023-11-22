@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devjin0122)](https://solved.ac/devjin0122/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=devjin0122&theme=warm)
 
 
 
