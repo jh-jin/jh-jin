@@ -1,8 +1,6 @@
 # Junghyun Jin 😉
 
 ### Hi there 👋
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devjin0122)](https://solved.ac/devjin0122/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=devjin0122&theme=warm)
 
 
@@ -11,6 +9,9 @@
 
 
 <!--
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devjin0122)](https://solved.ac/devjin0122/)
 **jh-jin/jh-jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
